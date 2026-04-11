@@ -1,0 +1,7 @@
+flask==3.0.0
+flask-cors
+gunicorn
+onnxruntime==1.24.4
+pillow
+setuptools
+wheel
